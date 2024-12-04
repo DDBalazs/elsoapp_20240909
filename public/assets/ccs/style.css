@@ -1,0 +1,30 @@
+header{
+    background-image: url("../png/aizen.png");
+    background-size: cover;
+    background-position: top center;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1{
+    background-color: rgba(128, 128, 128, 0.5);
+    display: inline;
+    padding: 15px 10px 8px 10px;
+    color: crimson;
+}
+
+footer{
+    background-color: rgba(128, 128, 128, 0.274);
+}
+
+footer a:link{
+    color: grey;
+}
+footer a:visited{
+    color:aliceblue
+}
+footer a:hover{
+    text-decoration: none;
+}
